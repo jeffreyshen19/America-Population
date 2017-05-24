@@ -1,0 +1,462 @@
+                  <tr>
+                     <td height="13" align="left"><b>Alabama</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">494</td>
+                     <td style="background-color:#D8D8D8">2,565</td>
+                     <td>41,879</td>
+                     <td>117,549</td>
+                     <td>253,532</td>
+                     <td>342,844</td>
+                     <td>435,080</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Arkansas</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">136</td>
+                     <td style="background-color:#D8D8D8">1,617</td>
+                     <td style="background-color:#D8D8D8">4,576</td>
+                     <td>19,935</td>
+                     <td>47,100</td>
+                     <td>111,115</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>California</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Colorado</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Connecticut</b></td>
+                     <td>2,764</td>
+                     <td>951</td>
+                     <td>310</td>
+                     <td>97</td>
+                     <td>25</td>
+                     <td>17</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Delaware</b></td>
+                     <td>8,887</td>
+                     <td>6,153</td>
+                     <td>4,177</td>
+                     <td>4,509</td>
+                     <td>3,292</td>
+                     <td>2,605</td>
+                     <td>2,290</td>
+                     <td>1,798</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>District&#160;of&#160;Columbia</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td>2,072</td>
+                     <td>3,554</td>
+                     <td>4,520</td>
+                     <td>4,505</td>
+                     <td>3,320</td>
+                     <td>3,687</td>
+                     <td>3,185</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Florida</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">15,501</td>
+                     <td style="background-color:#D8D8D8">25,717</td>
+                     <td>39,310</td>
+                     <td>61,745</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Georgia</b></td>
+                     <td>29,264</td>
+                     <td>59,699</td>
+                     <td>105,218</td>
+                     <td>149,656</td>
+                     <td>217,531</td>
+                     <td>280,944</td>
+                     <td>381,682</td>
+                     <td>462,198</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Illinois</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">107</td>
+                     <td style="background-color:#D8D8D8">168</td>
+                     <td>917</td>
+                     <td>747</td>
+                     <td>331</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Indiana</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">28</td>
+                     <td style="background-color:#D8D8D8">237</td>
+                     <td>190</td>
+                     <td>3</td>
+                     <td>3</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Iowa</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">16</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Kansas</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">2</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Kentucky</b></td>
+                     <td style="background-color:#D8D8D8">12,430</td>
+                     <td>40,343</td>
+                     <td>80,561</td>
+                     <td>126,732</td>
+                     <td>165,213</td>
+                     <td>182,258</td>
+                     <td>210,981</td>
+                     <td>225,483</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Louisiana</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">34,660</td>
+                     <td>69,064</td>
+                     <td>109,588</td>
+                     <td>168,452</td>
+                     <td>244,809</td>
+                     <td>331,726</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Maine</b></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td>0</td>
+                     <td>2</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Maryland</b></td>
+                     <td>103,036</td>
+                     <td>105,635</td>
+                     <td>111,502</td>
+                     <td>107,398</td>
+                     <td>102,994</td>
+                     <td>89,737</td>
+                     <td>90,368</td>
+                     <td>87,189</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Massachusetts</b></td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>1</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Michigan</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">24</td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">1</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Minnesota</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Mississippi</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">2,995</td>
+                     <td style="background-color:#D8D8D8">14,523</td>
+                     <td>32,814</td>
+                     <td>65,659</td>
+                     <td>195,211</td>
+                     <td>309,878</td>
+                     <td>436,631</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Missouri</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">2,875</td>
+                     <td style="background-color:#D8D8D8">10,222</td>
+                     <td>25,091</td>
+                     <td>58,240</td>
+                     <td>87,422</td>
+                     <td>114,931</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Nebraska</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">15</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Nevada</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New Hampshire</b></td>
+                     <td>158</td>
+                     <td>8</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>3</td>
+                     <td>1</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New Jersey</b></td>
+                     <td>11,423</td>
+                     <td>12,422</td>
+                     <td>10,851</td>
+                     <td>7,557</td>
+                     <td>2,254</td>
+                     <td>674</td>
+                     <td>236</td>
+                     <td>18</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New Mexico</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New York</b></td>
+                     <td>21,324</td>
+                     <td>20,613</td>
+                     <td>15,017</td>
+                     <td>10,088</td>
+                     <td>75</td>
+                     <td>4</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>North Carolina</b></td>
+                     <td>100,572</td>
+                     <td>133,296</td>
+                     <td>168,824</td>
+                     <td>204,917</td>
+                     <td>245,601</td>
+                     <td>245,817</td>
+                     <td>288,548</td>
+                     <td>331,059</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Ohio</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>6</td>
+                     <td>3</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Oregon</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Pennsylvania</b></td>
+                     <td>3,737</td>
+                     <td>1,706</td>
+                     <td>795</td>
+                     <td>211</td>
+                     <td>403</td>
+                     <td>64</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Rhode Island</b></td>
+                     <td>948</td>
+                     <td>380</td>
+                     <td>108</td>
+                     <td>48</td>
+                     <td>17</td>
+                     <td>5</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>South Carolina</b></td>
+                     <td>107,094</td>
+                     <td>146,151</td>
+                     <td>196,365</td>
+                     <td>258,475</td>
+                     <td>315,401</td>
+                     <td>327,038</td>
+                     <td>384,984</td>
+                     <td>402,406</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Tennessee</b></td>
+                     <td style="background-color:#D8D8D8">3,417</td>
+                     <td>13,584</td>
+                     <td>44,535</td>
+                     <td>80,107</td>
+                     <td>141,603</td>
+                     <td>183,059</td>
+                     <td>239,459</td>
+                     <td>275,719</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Texas</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td>58,161</td>
+                     <td>182,566</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Utah Territory</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">26</td>
+                     <td style="background-color:#D8D8D8">29</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Vermont</b></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Virginia</b><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td>
+                     <td>287,959</td>
+                     <td>339,499</td>
+                     <td>383,521</td>
+                     <td>411,886</td>
+                     <td>453,698</td>
+                     <td>431,873</td>
+                     <td>452,028</td>
+                     <td>472,494</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Washington</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">0</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>West Virginia</b><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td>
+                     <td style="background-color:#D8D8D8">4,668</td>
+                     <td style="background-color:#D8D8D8">7,172</td>
+                     <td style="background-color:#D8D8D8">10,836</td>
+                     <td style="background-color:#D8D8D8">15,169</td>
+                     <td style="background-color:#D8D8D8">17,673</td>
+                     <td style="background-color:#D8D8D8">18,488</td>
+                     <td style="background-color:#D8D8D8">20,500</td>
+                     <td style="background-color:#D8D8D8">18,371</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Wisconsin</b></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8"></td>
+                     <td style="background-color:#D8D8D8">0</td>
+                     <td style="background-color:#D8D8D8">31</td>
+                     <td style="background-color:#D8D8D8">11</td>
+                     <td>0</td>
+                     <td>0</td>
+                  </tr>

@@ -1,0 +1,612 @@
+  <tr>
+      <td height="13" align="left"><b><a href="/wiki/Alabama" title="Alabama">Alabama</a></b></td>
+      <td align="center">1819</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">1,250</td>
+      <td style="background-color:#D8D8D8">9,046</td>
+      <td>127,901</td>
+      <td>309,527</td>
+      <td>590,756</td>
+      <td>771,623</td>
+      <td>964,201</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Alaska" title="Alaska">Alaska</a></b></td>
+      <td align="center">1959</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Arizona" title="Arizona">Arizona</a></b></td>
+      <td align="center">1912</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Arkansas" title="Arkansas">Arkansas</a></b></td>
+      <td align="center">1836</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">1,062</td>
+      <td style="background-color:#D8D8D8">14,273</td>
+      <td style="background-color:#D8D8D8">30,388</td>
+      <td>97,574</td>
+      <td>209,897</td>
+      <td>435,450</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/California" title="California">California</a></b></td>
+      <td align="center">1850</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td>92,597</td>
+      <td>379,994</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Colorado" title="Colorado">Colorado</a></b></td>
+      <td align="center">1876</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">34,277</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Connecticut" title="Connecticut">Connecticut</a></b></td>
+      <td align="center">1788</td>
+      <td>237,946</td>
+      <td>251,002</td>
+      <td>262,042</td>
+      <td>275,202</td>
+      <td>297,675</td>
+      <td>309,978</td>
+      <td>370,792</td>
+      <td>460,147</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Delaware" title="Delaware">Delaware</a></b></td>
+      <td align="center">1787</td>
+      <td>59,096</td>
+      <td>64,273</td>
+      <td>72,674</td>
+      <td>72,749</td>
+      <td>76,748</td>
+      <td>78,085</td>
+      <td>91,532</td>
+      <td>112,216</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Washington,_D.C." title="Washington, D.C.">District&#160;of&#160;Columbia</a></b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+      <td align="center"></td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td>8,144</td>
+      <td>15,471</td>
+      <td>23,336</td>
+      <td>30,261</td>
+      <td>33,745</td>
+      <td>51,687</td>
+      <td>75,080</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Florida" title="Florida">Florida</a></b></td>
+      <td align="center">1845</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">34,730</td>
+      <td style="background-color:#D8D8D8">54,477</td>
+      <td>87,445</td>
+      <td>140,424</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Georgia_(U.S._state)" title="Georgia (U.S. state)">Georgia</a></b></td>
+      <td align="center">1788</td>
+      <td>82,548</td>
+      <td>162,686</td>
+      <td>251,407</td>
+      <td>340,989</td>
+      <td>516,823</td>
+      <td>691,392</td>
+      <td>906,185</td>
+      <td>1,057,286</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Hawaii" title="Hawaii">Hawaii</a></b></td>
+      <td align="center">1959</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Idaho" title="Idaho">Idaho</a></b></td>
+      <td align="center">1890</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Illinois" title="Illinois">Illinois</a></b></td>
+      <td align="center">1818</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">2,458</td>
+      <td style="background-color:#D8D8D8">12,282</td>
+      <td>55,211</td>
+      <td>157,445</td>
+      <td>476,183</td>
+      <td>851,470</td>
+      <td>1,711,951</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Indiana" title="Indiana">Indiana</a></b></td>
+      <td align="center">1816</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">2,632</td>
+      <td style="background-color:#D8D8D8">24,520</td>
+      <td>147,178</td>
+      <td>343,031</td>
+      <td>685,866</td>
+      <td>988,416</td>
+      <td>1,350,428</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Iowa" title="Iowa">Iowa</a></b></td>
+      <td align="center">1846</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">43,112</td>
+      <td>192,214</td>
+      <td>674,913</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Kansas" title="Kansas">Kansas</a></b></td>
+      <td align="center">1861</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">107,206</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Kentucky" title="Kentucky">Kentucky</a></b></td>
+      <td align="center">1792</td>
+      <td style="background-color:#D8D8D8">73,677</td>
+      <td>220,959</td>
+      <td>406,511</td>
+      <td>564,317</td>
+      <td>687,917</td>
+      <td>779,828</td>
+      <td>982,405</td>
+      <td>1,155,684</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Louisiana" title="Louisiana">Louisiana</a></b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td>
+      <td align="center">1812</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">76,556</td>
+      <td>153,407</td>
+      <td>215,739</td>
+      <td>352,411</td>
+      <td>517,762</td>
+      <td>708,002</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Maine" title="Maine">Maine</a></b><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></td>
+      <td align="center">1820</td>
+      <td style="background-color:#D8D8D8">96,540</td>
+      <td style="background-color:#D8D8D8">151,719</td>
+      <td style="background-color:#D8D8D8">228,705</td>
+      <td>298,335</td>
+      <td>399,455</td>
+      <td>501,793</td>
+      <td>583,169</td>
+      <td>628,279</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Maryland" title="Maryland">Maryland</a></b><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></td>
+      <td align="center">1788</td>
+      <td>319,728</td>
+      <td>341,548</td>
+      <td>380,546</td>
+      <td>407,350</td>
+      <td>447,040</td>
+      <td>470,019</td>
+      <td>583,034</td>
+      <td>687,049</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></b></td>
+      <td align="center">1788</td>
+      <td>378,787</td>
+      <td>422,845</td>
+      <td>472,040</td>
+      <td>523,287</td>
+      <td>610,408</td>
+      <td>737,699</td>
+      <td>994,514</td>
+      <td>1,231,066</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Michigan" title="Michigan">Michigan</a></b></td>
+      <td align="center">1837</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">3,757</td>
+      <td style="background-color:#D8D8D8">4,762</td>
+      <td style="background-color:#D8D8D8">7,452</td>
+      <td style="background-color:#D8D8D8">28,004</td>
+      <td>212,267</td>
+      <td>397,654</td>
+      <td>749,113</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Minnesota" title="Minnesota">Minnesota</a></b></td>
+      <td align="center">1858</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">6,077</td>
+      <td>172,023</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Mississippi" title="Mississippi">Mississippi</a></b></td>
+      <td align="center">1817</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">7,600</td>
+      <td style="background-color:#D8D8D8">31,306</td>
+      <td>75,448</td>
+      <td>136,621</td>
+      <td>375,651</td>
+      <td>606,526</td>
+      <td>791,305</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Missouri" title="Missouri">Missouri</a></b></td>
+      <td align="center">1821</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">19,783</td>
+      <td style="background-color:#D8D8D8">66,586</td>
+      <td>140,455</td>
+      <td>383,702</td>
+      <td>682,044</td>
+      <td>1,182,012</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Montana" title="Montana">Montana</a></b></td>
+      <td align="center">1889</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Nebraska" title="Nebraska">Nebraska</a></b></td>
+      <td align="center">1867</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">28,841</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Nevada" title="Nevada">Nevada</a></b></td>
+      <td align="center">1864</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">6,857</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/New_Hampshire" title="New Hampshire">New Hampshire</a></b></td>
+      <td align="center">1788</td>
+      <td>141,885</td>
+      <td>183,858</td>
+      <td>214,360</td>
+      <td>244,161</td>
+      <td>269,328</td>
+      <td>284,574</td>
+      <td>317,976</td>
+      <td>326,073</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/New_Jersey" title="New Jersey">New Jersey</a></b></td>
+      <td align="center">1787</td>
+      <td>184,139</td>
+      <td>211,149</td>
+      <td>245,555</td>
+      <td>277,575</td>
+      <td>320,823</td>
+      <td>373,306</td>
+      <td>489,555</td>
+      <td>672,035</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/New_Mexico" title="New Mexico">New Mexico</a></b></td>
+      <td align="center">1912</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">61,547</td>
+      <td style="background-color:#D8D8D8">87,034</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/New_York_(state)" class="mw-redirect" title="New York (state)">New York</a></b></td>
+      <td align="center">1788</td>
+      <td>340,120</td>
+      <td>586,050</td>
+      <td>959,049</td>
+      <td>1,372,812</td>
+      <td>1,918,608</td>
+      <td>2,428,921</td>
+      <td>3,097,394</td>
+      <td>3,880,735</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a></b></td>
+      <td align="center">1789</td>
+      <td>393,751</td>
+      <td>478,103</td>
+      <td>556,526</td>
+      <td>638,829</td>
+      <td>737,987</td>
+      <td>753,419</td>
+      <td>869,039</td>
+      <td>992,622</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a></b></td>
+      <td align="center">1889</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Ohio" title="Ohio">Ohio</a></b></td>
+      <td align="center">1803</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">42,159</td>
+      <td>230,760</td>
+      <td>581,434</td>
+      <td>937,903</td>
+      <td>1,519,467</td>
+      <td>1,980,329</td>
+      <td>2,339,511</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a></b></td>
+      <td align="center">1907</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Oregon" title="Oregon">Oregon</a></b></td>
+      <td align="center">1859</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">12,093</td>
+      <td>52,465</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Pennsylvania" title="Pennsylvania">Pennsylvania</a></b></td>
+      <td align="center">1787</td>
+      <td>434,373</td>
+      <td>602,545</td>
+      <td>810,091</td>
+      <td>1,049,458</td>
+      <td>1,348,233</td>
+      <td>1,724,033</td>
+      <td>2,311,786</td>
+      <td>2,906,215</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Rhode_Island" title="Rhode Island">Rhode Island</a></b></td>
+      <td align="center">1790</td>
+      <td>68,825</td>
+      <td>69,122</td>
+      <td>76,931</td>
+      <td>83,059</td>
+      <td>97,199</td>
+      <td>108,830</td>
+      <td>147,545</td>
+      <td>174,620</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a></b></td>
+      <td align="center">1788</td>
+      <td>249,073</td>
+      <td>345,591</td>
+      <td>415,115</td>
+      <td>502,741</td>
+      <td>581,185</td>
+      <td>594,398</td>
+      <td>668,507</td>
+      <td>703,708</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/South_Dakota" title="South Dakota">South Dakota</a></b><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+      <td align="center">1889</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">4,837</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Tennessee" title="Tennessee">Tennessee</a></b></td>
+      <td align="center">1796</td>
+      <td style="background-color:#D8D8D8">35,691</td>
+      <td>105,602</td>
+      <td>261,727</td>
+      <td>422,813</td>
+      <td>681,904</td>
+      <td>829,210</td>
+      <td>1,002,717</td>
+      <td>1,109,801</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Texas" title="Texas">Texas</a></b></td>
+      <td align="center">1845</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td>212,592</td>
+      <td>604,215</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Utah" title="Utah">Utah</a></b></td>
+      <td align="center">1896</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">11,380</td>
+      <td style="background-color:#D8D8D8">40,273</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Vermont" title="Vermont">Vermont</a></b><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></td>
+      <td align="center">1791</td>
+      <td style="background-color:#D8D8D8">85,425</td>
+      <td>154,465</td>
+      <td>217,713</td>
+      <td>235,764</td>
+      <td>280,652</td>
+      <td>291,948</td>
+      <td>314,120</td>
+      <td>315,098</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Virginia" title="Virginia">Virginia</a></b><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></td>
+      <td align="center">1788</td>
+      <td>691,937</td>
+      <td>807,557</td>
+      <td>877,683</td>
+      <td>938,261</td>
+      <td>1,044,054</td>
+      <td>1,025,227</td>
+      <td>1,119,348</td>
+      <td>1,219,630</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Washington_(state)" title="Washington (state)">Washington</a></b></td>
+      <td align="center">1889</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">1,201</td>
+      <td style="background-color:#D8D8D8">11,594</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/West_Virginia" title="West Virginia">West Virginia</a></b><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td>
+      <td align="center">1863</td>
+      <td style="background-color:#D8D8D8">55,873</td>
+      <td style="background-color:#D8D8D8">78,592</td>
+      <td style="background-color:#D8D8D8">105,469</td>
+      <td style="background-color:#D8D8D8">136,808</td>
+      <td style="background-color:#D8D8D8">176,924</td>
+      <td style="background-color:#D8D8D8">224,537</td>
+      <td style="background-color:#D8D8D8">302,313</td>
+      <td style="background-color:#D8D8D8">376,688</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Wisconsin" title="Wisconsin">Wisconsin</a></b></td>
+      <td align="center">1848</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">1,444</td>
+      <td style="background-color:#D8D8D8">3,635</td>
+      <td style="background-color:#D8D8D8">30,945</td>
+      <td>305,391</td>
+      <td>775,881</td>
+   </tr>
+   <tr>
+      <td height="13" align="left"><b><a href="/wiki/Wyoming" title="Wyoming">Wyoming</a></b></td>
+      <td align="center">1890</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+      <td style="background-color:#D8D8D8">&#160;</td>
+   </tr>

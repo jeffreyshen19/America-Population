@@ -1,0 +1,459 @@
+                  <tr>
+                     <td height="13" align="left"><b>Alabama</b></td>
+                     <td>3,266,740</td>
+                     <td>3,444,165</td>
+                     <td>3,893,888</td>
+                     <td>4,040,587</td>
+                     <td>4,447,100</td>
+                     <td>4,779,736</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Alaska</b></td>
+                     <td>226,167</td>
+                     <td>300,382</td>
+                     <td>401,851</td>
+                     <td>550,043</td>
+                     <td>626,932</td>
+                     <td>710,231</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Arizona</b></td>
+                     <td>1,302,161</td>
+                     <td>1,770,900</td>
+                     <td>2,718,215</td>
+                     <td>3,665,228</td>
+                     <td>5,130,632</td>
+                     <td>6,392,017</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Arkansas</b></td>
+                     <td>1,786,272</td>
+                     <td>1,923,295</td>
+                     <td>2,286,435</td>
+                     <td>2,350,725</td>
+                     <td>2,673,400</td>
+                     <td>2,915,918</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>California</b></td>
+                     <td>15,717,204</td>
+                     <td>19,953,134</td>
+                     <td>23,667,902</td>
+                     <td>29,760,021</td>
+                     <td>33,871,648</td>
+                     <td>37,253,956</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Colorado</b></td>
+                     <td>1,753,947</td>
+                     <td>2,207,259</td>
+                     <td>2,889,964</td>
+                     <td>3,294,394</td>
+                     <td>4,301,261</td>
+                     <td>5,029,196</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Connecticut</b></td>
+                     <td>2,535,234</td>
+                     <td>3,031,709</td>
+                     <td>3,107,576</td>
+                     <td>3,287,116</td>
+                     <td>3,405,565</td>
+                     <td>3,574,097</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Delaware</b></td>
+                     <td>446,292</td>
+                     <td>548,104</td>
+                     <td>594,338</td>
+                     <td>666,168</td>
+                     <td>783,600</td>
+                     <td>897,934</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>District&#160;of&#160;Columbia</b></td>
+                     <td>763,956</td>
+                     <td>756,510</td>
+                     <td>638,333</td>
+                     <td>606,900</td>
+                     <td>572,059</td>
+                     <td>601,723</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Florida</b></td>
+                     <td>4,951,560</td>
+                     <td>6,789,443</td>
+                     <td>9,746,324</td>
+                     <td>12,937,926</td>
+                     <td>15,982,378</td>
+                     <td>18,801,310</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Georgia</b></td>
+                     <td>3,943,116</td>
+                     <td>4,589,575</td>
+                     <td>5,463,105</td>
+                     <td>6,478,216</td>
+                     <td>8,186,453</td>
+                     <td>9,687,653</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Hawaii</b></td>
+                     <td>632,772</td>
+                     <td>768,561</td>
+                     <td>964,691</td>
+                     <td>1,108,229</td>
+                     <td>1,211,537</td>
+                     <td>1,360,301</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Idaho</b></td>
+                     <td>667,191</td>
+                     <td>712,567</td>
+                     <td>943,935</td>
+                     <td>1,006,749</td>
+                     <td>1,293,953</td>
+                     <td>1,567,582</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Illinois</b></td>
+                     <td>10,081,158</td>
+                     <td>11,113,976</td>
+                     <td>11,426,518</td>
+                     <td>11,430,602</td>
+                     <td>12,419,293</td>
+                     <td>12,830,632</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Indiana</b></td>
+                     <td>4,662,498</td>
+                     <td>5,193,669</td>
+                     <td>5,490,224</td>
+                     <td>5,544,159</td>
+                     <td>6,080,485</td>
+                     <td>6,483,802</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Iowa</b></td>
+                     <td>2,757,537</td>
+                     <td>2,824,376</td>
+                     <td>2,913,808</td>
+                     <td>2,776,755</td>
+                     <td>2,926,324</td>
+                     <td>3,046,355</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Kansas</b></td>
+                     <td>2,178,611</td>
+                     <td>2,246,578</td>
+                     <td>2,363,679</td>
+                     <td>2,477,574</td>
+                     <td>2,688,418</td>
+                     <td>2,853,118</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Kentucky</b></td>
+                     <td>3,038,156</td>
+                     <td>3,218,706</td>
+                     <td>3,660,777</td>
+                     <td>3,685,296</td>
+                     <td>4,041,769</td>
+                     <td>4,339,367</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Louisiana</b></td>
+                     <td>3,257,022</td>
+                     <td>3,641,306</td>
+                     <td>4,205,900</td>
+                     <td>4,219,973</td>
+                     <td>4,468,976</td>
+                     <td>4,533,372</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Maine</b></td>
+                     <td>969,265</td>
+                     <td>992,048</td>
+                     <td>1,124,660</td>
+                     <td>1,227,928</td>
+                     <td>1,274,923</td>
+                     <td>1,328,361</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Maryland</b></td>
+                     <td>3,100,689</td>
+                     <td>3,922,399</td>
+                     <td>4,216,975</td>
+                     <td>4,781,468</td>
+                     <td>5,296,486</td>
+                     <td>5,773,552</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Massachusetts</b></td>
+                     <td>5,148,578</td>
+                     <td>5,689,170</td>
+                     <td>5,737,037</td>
+                     <td>6,016,425</td>
+                     <td>6,349,097</td>
+                     <td>6,547,629</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Michigan</b></td>
+                     <td>7,823,194</td>
+                     <td>8,875,083</td>
+                     <td>9,262,078</td>
+                     <td>9,295,297</td>
+                     <td>9,938,444</td>
+                     <td>9,883,640</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Minnesota</b></td>
+                     <td>3,413,864</td>
+                     <td>3,804,971</td>
+                     <td>4,075,970</td>
+                     <td>4,375,099</td>
+                     <td>4,919,479</td>
+                     <td>5,303,925</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Mississippi</b></td>
+                     <td>2,178,141</td>
+                     <td>2,216,912</td>
+                     <td>2,520,638</td>
+                     <td>2,573,216</td>
+                     <td>2,844,658</td>
+                     <td>2,967,297</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Missouri</b></td>
+                     <td>4,319,813</td>
+                     <td>4,676,501</td>
+                     <td>4,916,686</td>
+                     <td>5,117,073</td>
+                     <td>5,595,211</td>
+                     <td>5,988,927</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Montana</b></td>
+                     <td>674,767</td>
+                     <td>694,409</td>
+                     <td>786,690</td>
+                     <td>799,065</td>
+                     <td>902,195</td>
+                     <td>989,415</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Nebraska</b></td>
+                     <td>1,411,330</td>
+                     <td>1,483,493</td>
+                     <td>1,569,825</td>
+                     <td>1,578,385</td>
+                     <td>1,711,263</td>
+                     <td>1,826,341</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Nevada</b></td>
+                     <td>285,278</td>
+                     <td>488,738</td>
+                     <td>800,493</td>
+                     <td>1,201,833</td>
+                     <td>1,998,257</td>
+                     <td>2,700,551</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New Hampshire</b></td>
+                     <td>606,921</td>
+                     <td>737,681</td>
+                     <td>920,610</td>
+                     <td>1,109,252</td>
+                     <td>1,235,786</td>
+                     <td>1,316,470</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New Jersey</b></td>
+                     <td>6,066,782</td>
+                     <td>7,168,164</td>
+                     <td>7,364,823</td>
+                     <td>7,730,188</td>
+                     <td>8,414,350</td>
+                     <td>8,791,894</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New Mexico</b></td>
+                     <td>951,023</td>
+                     <td>1,016,000</td>
+                     <td>1,302,894</td>
+                     <td>1,515,069</td>
+                     <td>1,819,046</td>
+                     <td>2,059,179</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>New York</b></td>
+                     <td>16,782,304</td>
+                     <td>18,236,967</td>
+                     <td>17,558,072</td>
+                     <td>17,990,455</td>
+                     <td>18,976,457</td>
+                     <td>19,378,102</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>North Carolina</b></td>
+                     <td>4,556,155</td>
+                     <td>5,082,059</td>
+                     <td>5,881,766</td>
+                     <td>6,628,637</td>
+                     <td>8,049,313</td>
+                     <td>9,535,483</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>North Dakota</b></td>
+                     <td>632,446</td>
+                     <td>617,761</td>
+                     <td>652,717</td>
+                     <td>638,800</td>
+                     <td>642,200</td>
+                     <td>672,591</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Ohio</b></td>
+                     <td>9,706,397</td>
+                     <td>10,652,017</td>
+                     <td>10,797,630</td>
+                     <td>10,847,115</td>
+                     <td>11,353,140</td>
+                     <td>11,536,504</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Oklahoma</b></td>
+                     <td>2,328,284</td>
+                     <td>2,559,229</td>
+                     <td>3,025,290</td>
+                     <td>3,145,585</td>
+                     <td>3,450,654</td>
+                     <td>3,751,351</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Oregon</b></td>
+                     <td>1,768,687</td>
+                     <td>2,091,385</td>
+                     <td>2,633,105</td>
+                     <td>2,842,321</td>
+                     <td>3,421,399</td>
+                     <td>3,831,074</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Pennsylvania</b></td>
+                     <td>11,319,366</td>
+                     <td>11,793,909</td>
+                     <td>11,863,895</td>
+                     <td>11,881,643</td>
+                     <td>12,281,054</td>
+                     <td>12,702,379</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Rhode Island</b></td>
+                     <td>859,488</td>
+                     <td>946,725</td>
+                     <td>947,154</td>
+                     <td>1,003,464</td>
+                     <td>1,048,319</td>
+                     <td>1,052,567</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>South Carolina</b></td>
+                     <td>2,382,594</td>
+                     <td>2,590,516</td>
+                     <td>3,121,820</td>
+                     <td>3,486,703</td>
+                     <td>4,012,012</td>
+                     <td>4,625,364</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>South Dakota</b></td>
+                     <td>680,514</td>
+                     <td>665,507</td>
+                     <td>690,768</td>
+                     <td>696,004</td>
+                     <td>754,844</td>
+                     <td>814,180</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Tennessee</b></td>
+                     <td>3,567,089</td>
+                     <td>3,923,687</td>
+                     <td>4,591,120</td>
+                     <td>4,877,185</td>
+                     <td>5,689,283</td>
+                     <td>6,346,105</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Texas</b></td>
+                     <td>9,579,677</td>
+                     <td>11,196,730</td>
+                     <td>14,229,191</td>
+                     <td>16,986,510</td>
+                     <td>20,851,820</td>
+                     <td>25,145,561</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Utah</b></td>
+                     <td>890,627</td>
+                     <td>1,059,273</td>
+                     <td>1,461,037</td>
+                     <td>1,722,850</td>
+                     <td>2,233,169</td>
+                     <td>2,763,885</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Vermont</b></td>
+                     <td>389,881</td>
+                     <td>444,330</td>
+                     <td>511,456</td>
+                     <td>562,758</td>
+                     <td>608,827</td>
+                     <td>625,741</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Virginia</b></td>
+                     <td>3,966,949</td>
+                     <td>4,648,494</td>
+                     <td>5,346,818</td>
+                     <td>6,187,358</td>
+                     <td>7,078,515</td>
+                     <td>8,001,024</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Washington</b></td>
+                     <td>2,853,214</td>
+                     <td>3,409,169</td>
+                     <td>4,132,156</td>
+                     <td>4,866,692</td>
+                     <td>5,894,121</td>
+                     <td>6,724,540</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>West Virginia</b></td>
+                     <td>1,860,421</td>
+                     <td>1,744,237</td>
+                     <td>1,949,644</td>
+                     <td>1,793,477</td>
+                     <td>1,808,344</td>
+                     <td>1,852,994</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Wisconsin</b></td>
+                     <td>3,951,777</td>
+                     <td>4,417,731</td>
+                     <td>4,705,767</td>
+                     <td>4,891,769</td>
+                     <td>5,363,675</td>
+                     <td>5,686,986</td>
+                  </tr>
+                  <tr>
+                     <td height="13" align="left"><b>Wyoming</b></td>
+                     <td>330,066</td>
+                     <td>332,416</td>
+                     <td>469,557</td>
+                     <td>453,588</td>
+                     <td>493,782</td>
+                     <td>563,626</td>
+                  </tr>

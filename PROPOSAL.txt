@@ -1,0 +1,9 @@
+Group Members: Jeffrey Shen, Alex Justicz
+
+1) We are thinking about using data visualization to show the rise and fall of population throughout world history. So, there would be some slider or control to move through time, and each country would change color based on its population level.
+
+2) This project is compelling because it presents a large heap of data in a visually striking and educational format.
+
+3) We will be implementing this project in a similar way as the America lab. We will be using processing to drive the graphics, and will have an SVG map of the world to interact with the individual countries. We will have the main class to run the code, and will be creating separate code in Java dedicated to processing and compressing the data.
+
+4) We will split up the work trying to compile population data. Jeffrey will primarily write the code that parses the data and Alex will write the code to display the data.
